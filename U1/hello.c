@@ -2,6 +2,7 @@
 int main(){
 printf("Bienvenido Adrian \n");
 printf("es un gusto compilar en la Materia \n");
-printf("Metodos Numericos");
+int suma = 3 +5;
+printf("Suma: %d\n", suma);
 return 0;
 }
